@@ -54,16 +54,6 @@ That said, XE-Loader will not run every existing executable, instead, it gives y
 ![Doc_generic](wiki/doc/img/Doc_FileFormat.png)
 
 
-## How to build?
-
-[See our wiki](https://github.com/VLiance/XE-Loader/wiki)
-
-
-## How to create an XE-Loader compatible binary?
-
-[See our wiki](https://github.com/VLiance/XE-Loader/wiki)
-
-
 ## Examples
 
 Created for the [CpcDos](https://cpcdos.net ) project. [Github](https://github.com/SPinti-Software/CpcdosOS2.1/tree/dev/CONTRIB/XE-Loader) / [Video](https://www.youtube.com/watch?v=sUTnZHpxKf4&ab_channel=TutorielsCpcdosOSx-Cr%C3%A9ezvotreOS) / [Using Mesa](https://github.com/Cwc-Lib/mesa)
