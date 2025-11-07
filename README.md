@@ -4,7 +4,7 @@
 _Load & run executable [Windows EXE / Linux ELF / & more] anywhere, without any dependency_
 # 
 
-**XE-Loader** is a **C99** _open source project_. Like the well known [Wine](https://www.winehq.org/), this loader runs executable directly on the system without any virtualization layer.
+**XE-Loader** is a **C99** _experimental project_. Like the well known [Wine](https://www.winehq.org/), this loader runs executable directly on the system without any virtualization layer.
 
 _No extra layers = No penalties_ 
 
