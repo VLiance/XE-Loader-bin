@@ -59,11 +59,6 @@ That said, XE-Loader will not run every existing executable, instead, it gives y
 Created for the [CpcDos](https://cpcdos.net ) project. [Github](https://github.com/SPinti-Software/CpcdosOS2.1/tree/dev/CONTRIB/XE-Loader) / [Video](https://www.youtube.com/watch?v=sUTnZHpxKf4&ab_channel=TutorielsCpcdosOSx-Cr%C3%A9ezvotreOS) / [Using Mesa](https://github.com/Cwc-Lib/mesa)
 
 
-## Soon
-
-* Support Android (.apk)
-* Support MacOS   (.app)
-
 ## Even further
 
 Here we can make **cross-platform** binary that run on specific architecture, if we want to go even further and use the LLVM IR technologie, we can make **cross-architecture** binary (_Same XE file everywhere_)
